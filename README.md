@@ -3,9 +3,7 @@
 컴퓨터공학과 신입생 및 재학생의 성공적인 수강 계획을 돕기 위해 설계된 RAG(검색 증강 생성) 기반 챗봇 프로젝트입니다.
 
 ## UI
-<img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/79dc5e4e-665a-4529-91e6-5bf8c9f98d38" />
-
-<img width="950" height="450" alt="스크린샷 2025-11-18 154228" src="https://github.com/user-attachments/assets/47c2b7f8-f9de-4d45-8b1e-cb1cbbf42e04" />
+<img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/79dc5e4e-665a-4529-91e6-5bf8c9f98d38" /> <img width="950" height="450" alt="스크린샷 2025-11-18 154228" src="https://github.com/user-attachments/assets/47c2b7f8-f9de-4d45-8b1e-cb1cbbf42e04" />
 
 
 ## 1. 프로젝트 개요
