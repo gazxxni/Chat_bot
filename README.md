@@ -42,7 +42,7 @@
     * **[Frontend (React)]** 사용자가 `http://localhost:3000`에서 질문을 입력합니다.
     * **[Backend (FastAPI)]** `/ask` 엔드포인트가 질문을 받아, OpenAI 임베딩 모델을 사용해 사용자 질문을 벡터로 변환합니다.
     * **[Vector DB (ChromaDB)]** 질문 벡터와 가장 유사한(가장 관련성 높은) 텍스트 조각 10개(Top-K=10)를 DB에서 검색합니다.
-    * **[AI Model (OpenAI)]** 검색된 10개의 텍스트(Context)와 원본 질문을 프롬프트에 조합하여 `gpt-4o` 모델에게 전달합니다.
+    * **[AI Model (OpenAI)]** 검색된 10개의 텍스트(Context)와 원본 질문을 프롬프트에 조합하여 `Gemini 1.5 Pro` 모델에게 전달합니다.
     * **[Response]** AI 모델이 생성한 최종 답변을 다시 프론트엔드로 전송하여 사용자 화면에 표시합니다.
 
 ## 6. 기술 스택
@@ -51,7 +51,7 @@
 * **Backend:** FastAPI (Python)
 * **Vector Database:** ChromaDB
 * **Embedding Model:** OpenAI `text-embedding-3-small`
-* **Generation Model:** OpenAI `gpt-4o`
+* **Generation Model:** Google `Gemini 1.5 Pro`
 
 ---
 
