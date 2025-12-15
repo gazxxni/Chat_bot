@@ -55,5 +55,5 @@
 
 ---
 
-#### 초기 버전 & 상세 설명
+#### 디벨롭 버전 & 차이점
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/gazxxni/Chat_bot_v2)
